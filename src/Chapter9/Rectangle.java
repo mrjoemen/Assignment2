@@ -1,9 +1,9 @@
-package Chapter10;
+package Chapter9;
 
-public class Rectangle {
+public class Rectangle { //question 1
 
-    private double width = 1.0;
-    private double height = 1.0;
+    double width;
+    double height;
 
     public Rectangle() {
         this(1.0, 1.0);
