@@ -1,6 +1,6 @@
 package Chapter10;
 
-public class MyInteger {
+public class MyInteger { // question 3
 
     int value;
 
@@ -76,4 +76,5 @@ public class MyInteger {
     public static int parseInt(String str) {
         return str.charAt(0);
     }
+
 }

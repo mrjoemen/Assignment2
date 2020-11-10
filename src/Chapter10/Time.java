@@ -1,7 +1,7 @@
 package Chapter10;
 import java.util.concurrent.TimeUnit;
 
-public class Time {
+public class Time { //question 1
 
     int hours;
     int minutes;
